@@ -406,3 +406,21 @@ html {
     height: 42px;
   }
 }
+.about p {
+  text-align: justify;
+  line-height: 1.8;
+  margin-bottom: 16px;
+}
+
+.about .container {
+  max-width: 800px;
+}
+
+.about ul {
+  margin-top: 12px;
+  padding-left: 20px;
+}
+
+.about ul li {
+  margin-bottom: 8px;
+}
